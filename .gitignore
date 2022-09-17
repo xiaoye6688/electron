@@ -1,0 +1,8 @@
+node_modules
+dist
+prebuild
+config.json
+updater/target/*
+out/*
+```
+node_modules
